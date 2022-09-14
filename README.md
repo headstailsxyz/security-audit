@@ -1,2 +1,2 @@
 # security-audit
-Security Audit of HeadsTails Smart Contract by Vidma
+Security Audit report of HeadsTails Smart Contract by Vidma
